@@ -5,68 +5,42 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
 ![OOP](https://img.shields.io/badge/OOP-Applied-success)
 
-A desktop-based **Flight Reservation System** developed with **Python**, **Tkinter**, and **SQLite**, providing an intuitive graphical interface for managing flight bookings while applying Object-Oriented Programming principles.
+A desktop-based **Flight Reservation System** developed using **Python**, **Tkinter**, and **SQLite**. The application provides an intuitive graphical interface for managing flight reservations while applying Object-Oriented Programming (OOP) principles.
 
 ---
 
-## Table of Contents
+# Overview
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
-- [Future Improvements](#-future-improvements)
-- [Author](#-author)
+This project was developed during the **Sprints Python Course**.
 
----
+It demonstrates how desktop applications can be built using Python with a graphical interface and a relational database.
 
-# 📌 Overview
-
-This project was developed as part of the **Sprints Python Course** to demonstrate desktop application development using **Python**.
-
-The application allows users to manage flight reservations through a user-friendly graphical interface while integrating a relational database for persistent storage.
-
-Key concepts demonstrated include:
-
-- Object-Oriented Programming (OOP)
-- GUI Development with Tkinter
-- SQLite Database Integration
-- CRUD Operations
-- Input Validation
+The application allows users to manage flight reservations through a simple and user-friendly interface.
 
 ---
 
 # Features
 
-✅ Add New Flight Reservations
-
-✅ View Existing Reservations
-
-✅ Update Reservation Details
-
-✅ Delete Reservations
-
-✅ Search for Reservations
-
-✅ SQLite Database Integration
-
-✅ Interactive Tkinter GUI
-
-✅ Object-Oriented Architecture
+- Add new flight reservations
+- View existing reservations
+- Update reservation details
+- Delete reservations
+- Search reservations
+- SQLite database integration
+- Interactive Tkinter GUI
+- Object-Oriented Programming (OOP)
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
-| Python | Application Logic |
-| Tkinter | Graphical User Interface |
+| Python | Programming Language |
+| Tkinter | GUI Development |
 | SQLite | Database |
-| OOP | Software Design |
 | SQL | Database Queries |
+| OOP | Software Design |
 
 ---
 
@@ -77,8 +51,8 @@ Flight-Reservation-System/
 │
 ├── main.py
 ├── database.py
-├── models.py
 ├── gui.py
+├── models.py
 ├── flights.db
 └── README.md
 ```
@@ -109,19 +83,19 @@ python main.py
 
 # Screenshots
 
-## Home Screen
+### Home Screen
 
 <img src="https://github.com/user-attachments/assets/bd6ae275-e661-4f0e-9fe0-5d3d0bf46e73" width="850">
 
 ---
 
-## Reservation Management
+### Reservation Management
 
 <img src="https://github.com/user-attachments/assets/7b07525f-8adf-439f-b68d-86ea5cc75075" width="850">
 
 ---
 
-## Reservation Details
+### Reservation Details
 
 <img src="https://github.com/user-attachments/assets/60ba96b5-50c7-41f4-89f5-b72926aa9747" width="850">
 
@@ -129,20 +103,19 @@ python main.py
 
 # Future Improvements
 
-- User Authentication
-- Flight Schedule Management
-- Seat Selection System
-- Ticket Generation (PDF)
-- Email Booking Confirmation
-- Online Payment Integration
-- MySQL/PostgreSQL Support
+- Add user authentication
+- Generate booking receipts
+- Online payment integration
+- Seat selection
+- Email confirmation
+- MySQL/PostgreSQL support
 
 ---
 
 # Author
 
 **Salma Abdelgelil**
+ 
+GitHub: https://github.com/SalmaAbdelgelil
 
- GitHub: https://github.com/SalmaAbdelgelil
-
- LinkedIn: https://www.linkedin.com/in/salma-abdelgelil-384790314
+LinkedIn: https://www.linkedin.com/in/salma-abdelgelil-384790314
