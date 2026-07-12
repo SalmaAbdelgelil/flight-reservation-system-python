@@ -32,7 +32,7 @@ The application allows users to manage flight reservations through a simple and 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
